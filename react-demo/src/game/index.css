@@ -1,0 +1,19 @@
+.game-wrap{
+  padding: 20px;
+  width: 150px;
+  height: 150px;
+}
+.square-wrap{
+  overflow: hidden;
+}
+.square-wrap span{
+  box-sizing: border-box;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #333;
+  float: left;
+  text-align: center;
+  line-height: 50px;
+  font-size: 24px;
+  font-weight: bold;
+}

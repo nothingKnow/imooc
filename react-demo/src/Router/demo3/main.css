@@ -1,0 +1,11 @@
+.mainDiv{
+    display: flex;
+    height: 100vh;
+}
+.leftNav{
+    width: 250px;
+    background: #ddd;
+}
+.rightMain{
+    flex: 1;
+}

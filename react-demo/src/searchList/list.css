@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+}
+.list-wrap{
+    padding: 40px;
+}
+.list-wrap .search-input{
+    display: block;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    padding: 0 10px;
+}
+.list-wrap .light{
+    color: #f00;
+}
+.list-wrap li{
+    list-style: none;
+}
+.list-wrap .title{
+    font-weight: bold;
+}
+.list-wrap li span{
+    width: 80px;
+    display: inline-block;
+}
+
